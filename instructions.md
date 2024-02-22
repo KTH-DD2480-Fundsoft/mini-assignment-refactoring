@@ -2,9 +2,9 @@
 
 As per usual, the instructions are not the clearest. So here is a more elaborate explanation of the assignment from how I understand it with the help of our artificial friend.
 
-- The assignment is about documenting different *refactoring techniques* we have used in a table.
+- The assignment is about documenting, in a table, the different ***refactoring techniques*** we have used. Let's do it in `README.md`. A template table is added in there.
 
-- We should document one refactoring technique reach (*one per group member*)
+- We should document one refactoring technique each (*one per group member*)
 
 - We need to document four fields for each refactoring technique:
 
@@ -15,16 +15,16 @@ As per usual, the instructions are not the clearest. So here is a more elaborate
     The amount of effort required to implement the refactoring technique, categorized as `low`, `medium`, or `high`
 
     - **How often used**:\
-    The frequency with which you or your group members have employed a specific refactoring technique in the code
+    The frequency with which we have employed a specific refactoring technique in the code
 
     - **Outcome**:\
     The results or effects that were achieved by applying a specific refactoring technique to the code (*see suggestions below*)
 
 ## Possible refactoring techniques
 
-**We probably need to research and verify actual refactoring techniques and what their standard names are.**
+**Note: We probably need to research and verify actual refactoring techniques and what their standard names are.**
 
-However, here are some suggestions made by GPT4:
+However, here are some suggestions made by GPT4 (haven't verified if they are good):
 
 ---
 
