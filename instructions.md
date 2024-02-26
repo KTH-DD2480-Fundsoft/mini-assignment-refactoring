@@ -34,7 +34,6 @@ Can be found in [this link](https://refactoring.com/catalog/) (i.e., `https://re
 
 **Here are some suggestions made by GPT4 on possible outcomes:**
 
-
 The "Outcome" in the context of the assignment refers to the results or effects that were achieved by applying a specific refactoring technique to your code. It's about evaluating and describing the impact that the refactoring had on your project, codebase, or development process. The outcome is a crucial part of reflecting on the refactoring process because it helps to justify the effort and decisions made during the refactoring. Here are some aspects to consider when describing the outcome of a refactoring:
 
 ### 1. **Improved Readability**
